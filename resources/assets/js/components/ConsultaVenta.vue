@@ -277,7 +277,7 @@
                 });
             },
             pdfVenta(id){
-                window.open('http://localhost:8000/venta/pdf/'+ id + ',' + '_blank');
+                window.open('http://69.55.59.117/venta/pdf/'+ id + ',' + '_blank');
             },
             cambiarPagina(page,buscar,criterio){
                 let me = this;
